@@ -1,5 +1,7 @@
 # Agentic AI Framework with NIST 800-53 and AI RMF Governance
 
+![Governance belongs inside the agent, not beside it](https://raw.githubusercontent.com/kmb40/Artifacts/main/ai/security/linkedin-post-image-blue.jpg)
+
 A Python framework for building autonomous AI agents with governance controls mapped directly to NIST SP 800-53 and the NIST AI Risk Management Framework.
 
 Built as part of an enterprise AI governance content series by Kyle M. Brown.
